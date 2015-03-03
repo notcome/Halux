@@ -4,9 +4,9 @@
 ([@x@]) = H.code
 %%%%%%%%%%%%%%
 
-{h1|[[#HTML & CSS#]快速介绍]}
+{|h1|[[#HTML & CSS#]快速介绍]}
 
-五彩斑斓的网页由两个部分组成。其一标记文档内容，使用一种叫做超文本标记语言[*Hyper Text Markup Language，[link|[HTML][http://www.w3.org/TR/2014/PR-html5-20140916/Overview.html#contents]]*]的技术来书写；其二标记外观[*亦称「样式*]，使用一种叫做层叠样式表[*Cascading Style Sheet，[link|[CSS][http://www.w3.org/Style/CSS/]]*]的技术来描述。
+五彩斑斓的网页由两个部分组成。其一标记文档内容，使用一种叫做超文本标记语言[*Hyper Text Markup Language，[|link|[HTML][http://www.w3.org/TR/2014/PR-html5-20140916/Overview.html#contents]]*]的技术来书写；其二标记外观[*亦称「样式*]，使用一种叫做层叠样式表[*Cascading Style Sheet，[|link|[CSS][http://www.w3.org/Style/CSS/]]*]的技术来描述。
 
 这篇文章面向外行，尽可能使用朴素的术语。但如果有什么根本错误，请指出。同时，有什么没有背景知识的普通人难以理解的表述，也请指出来，谢谢。
 
